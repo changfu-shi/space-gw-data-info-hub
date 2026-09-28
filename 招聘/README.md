@@ -6,6 +6,7 @@
 
 | 截止日期 | 机构 | 职位 |
 | --- | --- | --- |
+| 2026-12-15 | Niels Bohr Institute | [引力波理论与相对论二体问题博士生](2026-12-15-nbi-gwsky-phd.md) |
 | 2026-11-23 | Albert Einstein Institute（AEI Potsdam） | [引力波科学博士后职位（多个）](2026-11-23-aei-acr-postdocs.md) |
 | 2026-11-22 | University of Geneva / Observatory of Geneva | [引力波物理博士后（2 名）](2026-11-22-geneva-gw-postdocs.md) |
 | 2026-11-16 | Observatoire de la Côte d'Azur | [Henri Poincaré 早期研究者博士后 fellowship](2026-11-16-oca-poincare-fellowship.md) |

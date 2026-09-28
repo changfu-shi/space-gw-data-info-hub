@@ -1,6 +1,6 @@
 # Einstein Telescope 招聘信息
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** Einstein Telescope
 - **状态：** 持续更新

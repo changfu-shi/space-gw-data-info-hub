@@ -1,6 +1,6 @@
 # 蔚蓝海岸天文台：Henri Poincaré 早期研究者博士后 fellowship
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** Observatoire de la Côte d'Azur（OCA，法国尼斯）
 - **职位：** Henri Poincaré Early-Career Researcher Fellowship，2 年博士后合同

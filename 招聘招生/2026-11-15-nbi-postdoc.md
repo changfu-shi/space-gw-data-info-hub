@@ -1,6 +1,6 @@
 # Postdoctoral Fellowships in Gravitational-Wave Astrophysics
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** Center of Gravity, Niels Bohr Institute, University of Copenhagen
 - **职位：** Postdoctoral Fellowship

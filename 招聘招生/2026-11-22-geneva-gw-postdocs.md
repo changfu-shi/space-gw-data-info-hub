@@ -1,6 +1,6 @@
 # 日内瓦天文台：引力波物理博士后（2 名）
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** University of Geneva / Observatory of Geneva（瑞士日内瓦 Versoix）
 - **课题组：** Prof. Giulia Cusin

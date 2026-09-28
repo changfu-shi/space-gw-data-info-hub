@@ -1,6 +1,6 @@
 # Postdoctoral Fellowships: AI for Gravitational-Wave Astronomy
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** National University of Singapore
 - **部门：** Department of Physics / Department of Statistics and Data Science

@@ -7,7 +7,7 @@
 ## 信息入口
 
 - [在线学术报告](在线学术报告/README.md)
-- [招聘信息](招聘/README.md)
+- [招聘与招生信息](招聘招生/README.md)
 - [会议与学术交流](会议/README.md)
 - [项目通知](通知/README.md)
 - [中心内部资源](资源/README.md)
@@ -16,19 +16,19 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
-| 2026-09-28 | 招聘 | [Niels Bohr Institute：引力波理论与相对论二体问题博士生](招聘/2026-12-15-nbi-gwsky-phd.md) |
+| 2026-09-28 | 招生 | [Niels Bohr Institute：引力波理论与相对论二体问题博士生](招聘招生/2026-12-15-nbi-gwsky-phd.md) |
 | 2026-09-28 | 会议 | [IAU Commission D1：Gravitational Waves and Multimessenger Astronomy](会议/2026-10-29-iau-d1-gw-multimessenger-webinar.md) |
-| 2026-09-28 | 招聘 | [AEI Potsdam：引力波科学博士后职位（多个）](招聘/2026-11-23-aei-acr-postdocs.md) |
+| 2026-09-28 | 招聘 | [AEI Potsdam：引力波科学博士后职位（多个）](招聘招生/2026-11-23-aei-acr-postdocs.md) |
 | 2026-09-25 | 在线学术报告 | [赵少东：从双白矮星引力波源推断银河系结构](在线学术报告/2026-09-28-zhao-shaodong-galactic-structure.md) |
 | 2026-09-23 | 会议 | [Massive Black Holes in the First Billion Years II](会议/2027-04-26-massive-black-holes-first-billion-years-ii.md) |
 | 2026-09-22 | 会议 | [2026 International LILA Meeting：月球引力波研讨会](会议/2026-12-02-lila-pisa.md) |
 | 2026-09-22 | 会议 | [CosmoFONDUE 2027：CERN 宇宙学会议](会议/2027-01-25-cosmofondue-cern.md) |
-| 2026-09-22 | 招聘 | [蔚蓝海岸天文台：Henri Poincaré 早期研究者博士后 fellowship](招聘/2026-11-16-oca-poincare-fellowship.md) |
-| 2026-09-22 | 招聘 | [日内瓦天文台：引力波物理博士后（2 名）](招聘/2026-11-22-geneva-gw-postdocs.md) |
+| 2026-09-22 | 招聘 | [蔚蓝海岸天文台：Henri Poincaré 早期研究者博士后 fellowship](招聘招生/2026-11-16-oca-poincare-fellowship.md) |
+| 2026-09-22 | 招聘 | [日内瓦天文台：引力波物理博士后（2 名）](招聘招生/2026-11-22-geneva-gw-postdocs.md) |
 | 2026-09-14 | 通知 | [信息汇总仓库开始内部试用](通知/README.md) |
 | 2026-09-14 | 在线学术报告 | [启动安排和第一批报告人](在线学术报告/README.md) |
-| 2026-09-12 | 招聘 | [Niels Bohr Institute 引力波天体物理博士后](招聘/2026-11-15-nbi-postdoc.md) |
-| 2026-09-12 | 招聘 | [NUS：AI for Gravitational-Wave Astronomy 博士后](招聘/2026-10-31-nus-ai4gw-postdoc.md) |
+| 2026-09-12 | 招聘 | [Niels Bohr Institute 引力波天体物理博士后](招聘招生/2026-11-15-nbi-postdoc.md) |
+| 2026-09-12 | 招聘 | [NUS：AI for Gravitational-Wave Astronomy 博士后](招聘招生/2026-10-31-nus-ai4gw-postdoc.md) |
 
 ## 参与维护
 
@@ -38,7 +38,7 @@
 
 ## 整理原则
 
-- 招聘和会议信息建议同时保留简要总结和完整通知原文；
+- 招聘、招生和会议信息建议同时保留简要总结和完整通知原文；
 - 来源、截止日期和联系方式尽量完整；
 - 已过期内容从当前列表移到相应目录的“已过期”部分，不必删除；
 - 账号密码和其他敏感信息不要放进 GitHub；线上会议号、口令等仅在组织者明确同意公开时收录；

@@ -1,6 +1,6 @@
 # AEI Potsdam：引力波科学博士后职位（多个）
 
-[返回招聘列表](README.md)
+[返回招聘与招生列表](README.md)
 
 - **机构：** Max Planck Institute for Gravitational Physics（Albert Einstein Institute, AEI），Potsdam
 - **部门：** Astrophysical and Cosmological Relativity（ACR）

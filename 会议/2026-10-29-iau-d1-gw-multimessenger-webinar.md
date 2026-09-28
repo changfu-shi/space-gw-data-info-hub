@@ -1,6 +1,6 @@
 # IAU Commission D1 全球在线报告：Gravitational Waves and Multimessenger Astronomy
 
-[返回在线学术报告列表](README.md)
+[返回会议列表](README.md)
 
 - **活动名称：** Gravitational Waves and Multimessenger Astronomy
 - **主办方：** [IAU Commission D1 — Gravitational Wave Astrophysics](https://www.iau.org/CommissionD1/CommissionD1/Home.aspx)

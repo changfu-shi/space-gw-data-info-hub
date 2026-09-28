@@ -16,7 +16,6 @@
 
 | 日期 | 报告人 | 题目 | 状态 |
 | --- | --- | --- | --- |
-| 2026-10-30 07:00 / 18:00（北京时间） | IAU Commission D1 | [Gravitational Waves and Multimessenger Astronomy](2026-10-29-iau-d1-gw-multimessenger-webinar.md) | 已确认，两个场次 |
 | 2026-09-28 19:30 | 赵少东（兰州大学） | [从双白矮星引力波源推断银河系结构](2026-09-28-zhao-shaodong-galactic-structure.md) | 已确认 |
 | 待定 | 课题一推荐 | 待定 | 待联系 |
 | 待定 | 课题二推荐 | 待定 | 待联系 |

@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-09-28 | 在线学术报告 | [IAU Commission D1：Gravitational Waves and Multimessenger Astronomy](在线学术报告/2026-10-29-iau-d1-gw-multimessenger-webinar.md) |
 | 2026-09-28 | 招聘 | [AEI Potsdam：引力波科学博士后职位（多个）](招聘/2026-11-23-aei-acr-postdocs.md) |
 | 2026-09-25 | 在线学术报告 | [赵少东：从双白矮星引力波源推断银河系结构](在线学术报告/2026-09-28-zhao-shaodong-galactic-structure.md) |
 | 2026-09-23 | 会议 | [Massive Black Holes in the First Billion Years II](会议/2027-04-26-massive-black-holes-first-billion-years-ii.md) |

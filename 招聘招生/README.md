@@ -12,6 +12,7 @@
 | 2026-11-16 | Observatoire de la Côte d'Azur | [Henri Poincaré 早期研究者博士后 fellowship](2026-11-16-oca-poincare-fellowship.md) |
 | 2026-11-15 | Niels Bohr Institute | [引力波天体物理博士后](2026-11-15-nbi-postdoc.md) |
 | 2026-10-31 | National University of Singapore | [AI for Gravitational-Wave Astronomy 博士后](2026-10-31-nus-ai4gw-postdoc.md) |
+| 2026-10-18 | Els Koffeman Fellowship（荷兰） | [面向代表性不足群体的博士后 fellowship](2026-10-18-els-koffeman-postdoctoral-fellowship.md) |
 | 持续更新 | Einstein Telescope | [职位列表](持续更新-einstein-telescope-jobs.md) |
 
 ## 已过期

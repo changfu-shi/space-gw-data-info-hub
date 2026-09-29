@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-09-29 | 招聘 | [Els Koffeman Postdoctoral Fellowship](招聘招生/2026-10-18-els-koffeman-postdoctoral-fellowship.md) |
 | 2026-09-28 | 招生 | [Niels Bohr Institute：引力波理论与相对论二体问题博士生](招聘招生/2026-12-15-nbi-gwsky-phd.md) |
 | 2026-09-28 | 会议 | [IAU Commission D1：Gravitational Waves and Multimessenger Astronomy](会议/2026-10-29-iau-d1-gw-multimessenger-webinar.md) |
 | 2026-09-28 | 招聘 | [AEI Potsdam：引力波科学博士后职位（多个）](招聘招生/2026-11-23-aei-acr-postdocs.md) |

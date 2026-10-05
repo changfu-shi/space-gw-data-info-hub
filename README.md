@@ -16,6 +16,7 @@
 
 | 日期 | 类别 | 内容 |
 | --- | --- | --- |
+| 2026-10-05 | 招聘 | [捷克科学院天文研究所：小质量比黑洞双星引力波等方向博士后](招聘招生/2026-10-23-czech-academy-postdocs.md) |
 | 2026-10-05 | 学术交流 | [Center of Gravity：引力物理短期科研交流资助（STSM）](会议/2026-11-30-center-of-gravity-stsm-exchange.md) |
 | 2026-10-05 | 招聘 | [Johns Hopkins University：引力物理与引力波天文学博士后](招聘招生/2026-12-01-jhu-gravitational-physics-postdocs.md) |
 | 2026-09-29 | 会议 | [第五届高频引力波研讨会（巴塞罗那）](会议/2027-02-08-high-frequency-gravitational-waves-workshop.md) |
